@@ -12,12 +12,13 @@ Flight ticket prices fluctuate based on numerous factors — booking time, airli
 
 ## 📂 Repository Structure
 Flight-Ticket-Price-Predictor/
+```
 │
 ├── Data_Train.xlsx          # Training dataset with flight details and prices
 ├── flightds.ipynb           # Main Jupyter Notebook (EDA + Model Training)
 ├── flightds-checkpoint.ipynb # Auto-saved checkpoint of the notebook
 └── README.md
-
+```
 ---
 
 ## 🗃️ Dataset
